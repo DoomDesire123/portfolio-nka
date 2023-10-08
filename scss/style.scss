@@ -1,0 +1,14 @@
+@use 'custom';
+
+//import components and sections//
+
+@use 'components/animations';
+@use 'components/background';
+@use 'components/buttons';
+@use 'components/mixins';
+@use 'components/typography';
+
+@use 'sections/aboutme';
+@use 'sections/menu';
+@use 'sections/navbar';
+@use 'sections/resume';

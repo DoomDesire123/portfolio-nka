@@ -1,0 +1,27 @@
+@use "../custom" as *;
+
+.abt-section{
+    padding-top: 5rem;
+}
+.abt-heading{
+    padding-bottom: 5rem;
+}
+.abt-container{
+    color: white !important;
+    opacity: 1;
+}
+.abt-bg{
+    height: 30rem;
+    width: 100%;
+    opacity: 1;
+}
+.sabt-bg{
+    height: 10rem;
+    width: 48rem;
+    background-color: white;
+    opacity: 0.9;
+    margin: auto;
+}
+.abtcontent{
+    width: 50rem;
+}

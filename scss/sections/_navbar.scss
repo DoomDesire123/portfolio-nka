@@ -1,0 +1,29 @@
+@use '../custom' as *;
+
+.menu{
+    padding: 0%;
+    .navbar-brand{
+            padding-left: 2rem;
+    }
+    a{
+        height: 100%;
+        color: white !important;
+        font-weight: 500;
+        text-transform: capitalize;
+        text-align: center;
+        .active{
+            text-decoration: underline;
+        }
+    }
+    li{
+        height: 100%;
+        width: 10rem;
+        a:hover{
+            color: black !important;
+            background-color: white;
+        }
+    }
+    div{
+        height: 2.5rem;
+    }
+}
