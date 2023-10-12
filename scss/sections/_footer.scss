@@ -1,0 +1,13 @@
+@use "../custom" as *;
+
+.footer{
+    padding-top: 2rem;
+    background-color: $primary;
+}
+.iconbox{
+    text-align: right;
+}
+.conicons{
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+}
