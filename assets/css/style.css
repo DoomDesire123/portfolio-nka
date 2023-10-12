@@ -11883,8 +11883,7 @@ textarea.form-control-lg {
   color: black;
   font-size: 1.9rem;
   display: block;
-  padding-top: 2.5rem;
-  padding-left: 2rem;
+  padding-left: 1rem;
   padding-right: 2rem;
 }
 
@@ -11991,8 +11990,7 @@ textarea.form-control-lg {
 .sintro-bg {
   height: 10rem;
   width: 48rem;
-  background-color: white;
-  opacity: 0.9;
+  opacity: 1;
   margin: auto;
 }
 
